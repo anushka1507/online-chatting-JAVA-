@@ -1,2 +1,3 @@
 # online-chatting-JAVA-
-Developed a online chatting application using Java swing and socket programming
+An online chatting application that transfers messages between the Server and various
+Clients using socket networking in Java. GUI: Java awt, Java Swing. Networking: Socket Programming
